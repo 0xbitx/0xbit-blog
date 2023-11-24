@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Something about me.
+I am a computer enthusiast from the Philippines. I create hacking tools and exploits
