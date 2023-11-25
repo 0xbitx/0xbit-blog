@@ -11,8 +11,7 @@ DEDSEC_GFS is a Linux-based tool designed for Google Form spamming. This powerfu
 
 
 <h3 align="center"> USABLE VARIABLE</h3>
-<div align="center">
-   
+
 | variable | Description                |
 | :-------- | ------------------------- |
 | 1. firstname  |  filipino and english name. |
@@ -25,7 +24,6 @@ DEDSEC_GFS is a Linux-based tool designed for Google Form spamming. This powerfu
 | 8. password  | generated from firstnane and lastname. |
 | 9. random_id | random id |
    
-</div>
 
 <h3 align="center"> SPAMMER IMAGE</h3>
 
