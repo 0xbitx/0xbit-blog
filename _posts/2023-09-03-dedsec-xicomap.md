@@ -1,7 +1,7 @@
 
-<p align="center">
-<img src="https://media3.giphy.com/media/2kXM55r2Ki78LsavEQ/giphy.gif?cid=ecf05e47sa6taafie5ln5fpq9upbt26tjiikgtr6inq0us36&ep=v1_gifs_related&rid=giphy.gif&ct=s", width="400", height="400">
-</p>
+
+![](https://media3.giphy.com/media/2kXM55r2Ki78LsavEQ/giphy.gif?cid=ecf05e47sa6taafie5ln5fpq9upbt26tjiikgtr6inq0us36&ep=v1_gifs_related&rid=giphy.gif&ct=s)
+
 <h1 align="center"> DEDSEC-XICOMAP</h1>
 <h4 align="center">DEDSEC-XICOMAP is a Web-Based Device Tracker that captures crucial user data, including IP addresses, device information, and exact locations, directly from visitors to a designated webpage. This data is then seamlessly integrated into the main web tool, allowing for the precise mapping of user GPS locations alongside their IP and device details.</h4>
 
@@ -31,64 +31,25 @@
 
 <h2 align="center">TOOL BANNER</h2>
 
-<p align="center">
-<img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/banner.png", width="600", height="600">
-</p>
+
+![](https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/banner.png)
 
 <h3 align="center"> MAIN PAGE</h3>
-<p align="center">
-<img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/xicomap.png", width="1000", height="1000">
-</p>
+
+![](https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/xicomap.png)
+
 
 <h3 align="center"> MAP MODES</h3>
-<table>
-  <tr>
-    <td align="center">
-      <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/light-mode.png" width="250" /></a>
-        <br />
-      light mode
-      </a>
-    </td>
-    <td align="center">
-      <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/dark-mode.png" width="250" /></a>
-        <br />
-      dark mode
-      </a>
-    </td>
-    <td align="center">
-     <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/street-mode.png" width="250" /></a>
-        <br />
-      street mode
-      </a>
-    </td>
-    <td align="center">
-      <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/satellite-mode.png" width="250" /></a>
-        <br />
-      satellite mode
-      </a>
-    </td>
-  </tr>
-     <tr>
-    <td align="center">
-<a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/terrain-mode.png" width="250" /></a>
-        <br />
-      terrrain1 mode
-      </a>
-    </td>
-    <td align="center">
-   <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/terrain2-mode.png" width="250" /></a>
-        <br />
-      terrrain2 mode
-      </a>
-    </td>
-        <td align="center">
-<a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/transpo-mode.png" width="250" /></a>
-            <br />
-      transpo mode
-      </a>
-    </td>
 
-</table>
+![](https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/light-mode.png)
+   
+![](https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/dark-mode.png)
+![](https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/street-mode.png)
+![](https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/satellite-mode.png)
+![](https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/terrain-mode.png)
+![](https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/terrain2-mode.png)
+![](https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/transpo-mode.png)
+
 
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC-XICOMAP.git
