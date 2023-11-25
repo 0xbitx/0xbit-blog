@@ -1,7 +1,7 @@
 
-<p align="center">
-<img src="https://www.office1.com/hubfs/Office1%20Blog%20-%20Graphics%20and%20Images/Phishing%20Blog%201.png#keepProtocol", width="500", height="500">
-</p>
+![](https://www.office1.com/hubfs/Office1%20Blog%20-%20Graphics%20and%20Images/Phishing%20Blog%201.png#keepProtocol)
+
+
 <h1 align="center"> DEDSEC_Zloy_moshennik</h1>
 <h4 align="center">Dedsec_Zloy_moshennik is a Linux-based scammer phishing page flooder capable of sending ultra-realistic account information (username and password).
 </h4>
@@ -10,14 +10,13 @@
 Dedsec_Zloy_moshennik is a Linux-based tool designed for phishing attacks. This tool serves as a page flooder, flooding phishing pages with traffic to mimic realistic user interactions. Notably, it possesses the capability to dispatch ultra-realistic account information, including both username and password details, enhancing its deceptive nature in fraudulent activities.
 
 <h3 align="center"> FLOODER IMAGE</h3>
-<p align="center">
-<img src="https://i.imgur.com/DLYYGmp.png", width="900", height="900">
-</p>
+
+![](https://i.imgur.com/DLYYGmp.png)
 
 <h3 align="center"> ACTUAL PHISHING PAGE</h3>
-<p align="center">
-<img src="https://i.imgur.com/iGVKiC0.png", width="500", height="500">
-</p>
+
+![](https://i.imgur.com/iGVKiC0.png)
+
 
 ### You can replace the code below for your website's url, header and body
 ```python
