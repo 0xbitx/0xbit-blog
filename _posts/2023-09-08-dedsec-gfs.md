@@ -1,7 +1,7 @@
 
-<p align="center">
-<img src="https://www.office1.com/hubfs/Office1%20Blog%20-%20Graphics%20and%20Images/Phishing%20Blog%201.png#keepProtocol", width="500", height="500">
-</p>
+
+![](https://www.office1.com/hubfs/Office1%20Blog%20-%20Graphics%20and%20Images/Phishing%20Blog%201.png#keepProtocol)
+
 <h1 align="center"> DEDSEC_GFS</h1>
 <h4 align="center">DEDSEC_GFS is a Linux-based Google Form Spammer capable of sending ultra-realistic account information (firstname, lastname, age, address, birthday, phone_number, email and password).</h4>
 
@@ -28,14 +28,13 @@ DEDSEC_GFS is a Linux-based tool designed for Google Form spamming. This powerfu
 </div>
 
 <h3 align="center"> SPAMMER IMAGE</h3>
-<p align="center">
-<img src="https://i.imgur.com/5sPcA6e.png", width="900", height="900">
-</p>
+
+![](https://i.imgur.com/5sPcA6e.png)
 
 <h3 align="center"> ACTUAL FORM PAGE</h3>
-<p align="center">
-<img src="https://i.imgur.com/4yyODIh.png", width="500", height="500">
-</p>
+
+![](https://i.imgur.com/4yyODIh.png)
+
 
 ### You can replace the code below for your google form url, header and body
 ```python
