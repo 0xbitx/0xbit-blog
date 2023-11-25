@@ -7,9 +7,17 @@ unlocks the power of a dual monitor setup without the need for display port conn
 DisplayLink's technology allows users to connect additional monitors using universal serial bus (USB) ports, making it convenient for laptops and other devices with limited video output options. The DisplayLink software and hardware work together to render graphics on the additional displays, effectively expanding the desktop space.
 
 <h3 align="center"> PRODUCT </h3>
-<p align="center">
-<img src="https://c1.neweggimages.com/ProductImage/2VF-000E-00006-S01.jpg", width="600", height="600">
-</p>
+
+<div style="text-align: center;">
+    <img 
+        style="width: 500px; 
+               height: 500px;
+               display: block; 
+               margin-left: auto;
+               margin-right: auto;"
+        src="https://c1.neweggimages.com/ProductImage/2VF-000E-00006-S01.jpg" 
+        alt="img">
+</div>
 
 <h3 align="center"> PRODUCT SPECIFICATIONS</h3>
 <div align="center">
