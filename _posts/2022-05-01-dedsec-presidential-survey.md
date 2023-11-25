@@ -1,14 +1,16 @@
 <h1 align="center"> DEDSEC PRESIDENTIAL SURVEY </h1>
 <p align="center"> Philippine Presidential Survey 2022 - Phishing tool </p>
 
-<img src="https://github.com/0xbitx/Dedsec-Presidential-Survey/blob/master/dedsecsurvey.png" width="100%">
+![](https://github.com/0xbitx/Dedsec-Presidential-Survey/blob/master/dedsecsurvey.png)
 
 ## Phishing page
 
-![2](https://github.com/0xbitx/Dedsec-Presidential-Survey/blob/master/form.png)
-![3](https://github.com/0xbitx/Dedsec-Presidential-Survey/blob/master/loginpage.png)
+![](https://github.com/0xbitx/Dedsec-Presidential-Survey/blob/master/form.png)
+
+![](https://github.com/0xbitx/Dedsec-Presidential-Survey/blob/master/loginpage.png)
+
 ## Tested on Google Cloud server - https://console.cloud.google.com
-<img src="https://github.com/0xbitx/Dedsec-Presidential-Survey/blob/master/cloud-server.png" width="100%">
+![](https://github.com/0xbitx/Dedsec-Presidential-Survey/blob/master/cloud-server.png)
 
 ### YOUTUBE Video
 <!-- YOUTUBE:START -->
