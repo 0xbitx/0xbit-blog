@@ -4,9 +4,9 @@
 
 
 ## SCREENSHOT 
-<p align="center">
-<img src="https://github.com/0xbitx/DEDSEC_NGL_USERREVEAL/blob/main/banner.png", width="500", height="500">
-</p>
+
+![](https://github.com/0xbitx/DEDSEC_NGL_USERREVEAL/blob/main/banner.png)
+
 
 ## INSTALLATION 
 
