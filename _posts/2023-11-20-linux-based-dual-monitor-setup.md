@@ -22,9 +22,8 @@ DisplayLink's technology allows users to connect additional monitors using unive
 <h3 align="center"> PRODUCT SPECIFICATIONS</h3>
 <div align="center">
    
-  |  | |
+  | MODEL |UG3501H |
   | -- | -- |
-  | MODEL | UG3501H |
   | Ports | 1 x HDMI <br> 1 x Microphone input Jack Port <br> 1 x Earphone Output Jack Port   |
   | LED | POWER |
   | Power Consumption | 1W |
