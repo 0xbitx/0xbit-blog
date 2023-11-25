@@ -1,7 +1,6 @@
 
-<p align="center">
-<img src="https://i.pinimg.com/originals/86/53/c0/8653c037712f7f7edc778dbc14ed7f41.png", width="400", height="400">
-</p>
+![](https://i.pinimg.com/originals/86/53/c0/8653c037712f7f7edc778dbc14ed7f41.png)
+
 <h1 align="center"> DEDSEC_TROJANIZE</h1>
 <h4 align="center">DEDSEC_TROJANIZE is a linux based tool that can add malicious code to a legitimate python code file </h4>
 
@@ -10,8 +9,7 @@ DEDSEC_TROJANIZE is capable of injecting a malicious code into legitimate python
 
 
 <h3 align="center"> SUPPORTED SOFTWARE</h3>
-<div align="center">
-   
+
   | Software type | software  |
   | -- | -- |
   | Ip  | Public ip |
@@ -24,7 +22,6 @@ DEDSEC_TROJANIZE is capable of injecting a malicious code into legitimate python
   | Sysadmin |  Apache Directory Studio<br> AWS<br>  Docker<br> Environnement variable<br> FileZilla<br> gFTP<br> History files<br> Shares <br> SSH private keys <br> KeePass Configuration Files (KeePassX, KeePass2) <br> Grub <br> Rclone |
   | Wifi | Network Manager<br> WPA Supplicant | 
   | Internal mechanism passwords storage | GNOME Keyring<br> Kwallet<br> Hashdump | 
-</div>
 
 
 ## INSTALLATION 
