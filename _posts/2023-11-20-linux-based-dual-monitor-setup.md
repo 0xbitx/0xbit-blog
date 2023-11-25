@@ -20,8 +20,7 @@ DisplayLink's technology allows users to connect additional monitors using unive
 </div>
 
 <h3 align="center"> PRODUCT SPECIFICATIONS</h3>
-<div align="center">
-   
+
   | MODEL |UG3501H |
   | -- | -- |
   | Ports | 1 x HDMI <br> 1 x Microphone input Jack Port <br> 1 x Earphone Output Jack Port   |
@@ -31,7 +30,6 @@ DisplayLink's technology allows users to connect additional monitors using unive
   | Port compatibility | USB3.0 or USB2.0 |
   | Display Mode | Primary <br> Extend <br> Mirror |
 
-</div>
 
 ## Product link (lazada & shopee)
 
