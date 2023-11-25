@@ -1,6 +1,14 @@
 
-
-<img src="https://media0.giphy.com/media/l0IynvAIYxm8ZGUrm/giphy.gif?cid=ecf05e47qvbyv5iod2z91r9bufnpkvsjn1xm18a63b0g8z9a&ep=v1_gifs_related&rid=giphy.gif&ct=g", width="400", height="400">
+<div align="center">
+    <img 
+        style="width: 400px; 
+               height: 400px;
+               display: block; 
+               margin-left: auto;
+               margin-right: auto;"
+        src="https://media0.giphy.com/media/l0IynvAIYxm8ZGUrm/giphy.gif?cid=ecf05e47qvbyv5iod2z91r9bufnpkvsjn1xm18a63b0g8z9a&ep=v1_gifs_related&rid=giphy.gif&ct=g" 
+        alt="img">
+</div>
 
 <h1 align="center"> DEDSEC_RANSOMWARE</h1>
 <h4 align="center">DEDSEC_RANSOMWARE is linux based ransomware tool that can create a ransomware code with discord integration.</h4>
@@ -12,12 +20,12 @@ DedSec Ransomware automatically sends the victim's unique decryption key, along 
 
 <h3 align="center"> RANSOMWARE MESSAGE</h3>
 
-<img src="https://github.com/0xbitx/DEDSEC_RANSOMWARE/blob/main/ransom.png", width="900", height="900">
+![](https://github.com/0xbitx/DEDSEC_RANSOMWARE/blob/main/ransom.png)
 
 
 <h3 align="center"> DISCORD INFO</h3>
 
-<img src="https://github.com/0xbitx/DEDSEC_RANSOMWARE/blob/main/info.png", width="500", height="500">
+![](https://github.com/0xbitx/DEDSEC_RANSOMWARE/blob/main/info.png)
 
 
 ## INSTALLATION 
