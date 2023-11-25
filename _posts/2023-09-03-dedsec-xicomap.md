@@ -31,7 +31,6 @@
 
 <h2 align="center">TOOL BANNER</h2>
 
-
 ![](https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/banner.png)
 
 <h3 align="center"> MAIN PAGE</h3>
@@ -44,10 +43,15 @@
 ![](https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/light-mode.png)
    
 ![](https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/dark-mode.png)
+
 ![](https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/street-mode.png)
+
 ![](https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/satellite-mode.png)
+
 ![](https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/terrain-mode.png)
+
 ![](https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/terrain2-mode.png)
+
 ![](https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/transpo-mode.png)
 
 
