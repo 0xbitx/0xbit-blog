@@ -42,9 +42,8 @@ shopee [Wavlink USB 3.0 to HDMI Video Graphic Adapter](https://shopee.ph/Wavlink
 ## wavlink support for displaylink model: WL-UG3501H
 https://www.wavlink.com/en_us/drivers.html
 
-<p align="center">
-<img src="https://i.imgur.com/SESQikV.png", width="1000", height="1000">
-</p>
+
+![](https://i.imgur.com/SESQikV.png)
 
 ## Installation
 ```shell
