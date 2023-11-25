@@ -12,8 +12,7 @@
 * CAMERA SHOT
 
 ### SCREENSHOT
-<p align="center">
-<img src="https://github.com/0xbitx/DEDSEC_SKID_REVEAL/blob/main/img.png", width="1000", height="1000">
+![](https://github.com/0xbitx/DEDSEC_SKID_REVEAL/blob/main/img.png)
 
 ### INSTALLATION [KALI - PARROT]
 * git clone https://github.com/0xbitx/DEDSEC_SKID_REVEAL.git
