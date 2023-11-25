@@ -8,7 +8,7 @@ DisplayLink's technology allows users to connect additional monitors using unive
 
 <h3 align="center"> PRODUCT </h3>
 
-<div style="text-align: center;">
+<div align="center">
     <img 
         style="width: 500px; 
                height: 500px;
