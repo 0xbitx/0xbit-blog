@@ -1,7 +1,8 @@
 
 <h1 align="center"> DEDSEC_STARLINK </h1>
 <h4 align="center">Dedsec-Starlink is a Terminal-Based Starlink Router Management and monitoring tool using Starlink API</h4>
-<img src="banner.png" width="100%"/>
+
+![](https://github.com/0xbitx/DEDSEC_STARLINK/blob/main/banner.png)
 
 ### OPTIONS
  [01]. STATUS  -  DEVICE INFORMATION AND STATUS
@@ -17,9 +18,11 @@
  [06]. REBOOT   -   REBOOT DISH
 
 ### SCREENSHOT
-<img src="picture1.png" width="100%"/>
-<img src="picture2.png" width="100%"/>
-<img src="picture3.png" width="100%"/>
+![](https://github.com/0xbitx/DEDSEC_STARLINK/blob/main/picture1.png)
+
+![](https://github.com/0xbitx/DEDSEC_STARLINK/blob/main/picture2.png)
+
+![](https://github.com/0xbitx/DEDSEC_STARLINK/blob/main/picture3.png)
 
 ### INSTALLATION [ KALI - UBUNTU - TERMUX APP  ]
 * git clone https://github.com/0xbitx/DEDSEC_STARLINK.git
