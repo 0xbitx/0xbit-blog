@@ -6,7 +6,7 @@
                display: block; 
                margin-left: auto;
                margin-right: auto;"
-        src="https://pics.freeicons.io/uploads/icons/png/6150684271558096337-512.png" 
+        src="https://cdn.iconscout.com/icon/free/png-512/linux-17-570099.png" 
         alt="img">
 </div>
 
