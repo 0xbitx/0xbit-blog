@@ -1,8 +1,8 @@
 
 <div align="center">
     <img 
-        style="width: 500px; 
-               height: 500px;
+        style="width: 300px; 
+               height: 300px;
                display: block; 
                margin-left: auto;
                margin-right: auto;"
