@@ -1,5 +1,6 @@
-
+<h1 align="center">
 <img src="https://github.com/0xbitx/DEDSEC-XICOMAP/assets/74537225/bc9bc6b3-1139-48f8-9488-d34c56adf6eb", width="400", height="400">
+</h1>
 
 <h1 align="center"> DEDSEC-XICOMAP</h1>
 
