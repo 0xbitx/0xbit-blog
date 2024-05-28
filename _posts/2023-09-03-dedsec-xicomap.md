@@ -1,23 +1,51 @@
 
-
-![](https://media3.giphy.com/media/2kXM55r2Ki78LsavEQ/giphy.gif?cid=ecf05e47sa6taafie5ln5fpq9upbt26tjiikgtr6inq0us36&ep=v1_gifs_related&rid=giphy.gif&ct=s)
+<p align="center">
+<img src="https://github.com/0xbitx/DEDSEC-XICOMAP/assets/74537225/bc9bc6b3-1139-48f8-9488-d34c56adf6eb", width="400", height="400">
+</p>
 
 <h1 align="center"> DEDSEC-XICOMAP</h1>
-<h4 align="center">DEDSEC-XICOMAP is a Web-Based Device Tracker that captures crucial user data, including IP addresses, device information, and exact locations, directly from visitors to a designated webpage. This data is then seamlessly integrated into the main web tool, allowing for the precise mapping of user GPS locations alongside their IP and device details.</h4>
+
+<p align="center">
+  <b>An effective tool for tracking pedophiles.</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3.11.x-brightgreen.svg" alt="version" />
+&nbsp;
+      <img src="https://img.shields.io/badge/qutebrowser-2.5.4-brightgreen.svg" alt="version" />
+  &nbsp;
+  <a href="https://github.com/0xbitx/DEDSEC-XICOMAP.git">
+    <img src="https://img.shields.io/npm/dm/repo-checklist" alt="downloads" />
+  </a>
+</p>
+
+
+![split](https://github.com/terkelg/prompts/raw/master/media/split.png)
+### DESCRIPTION
+DEDSEC-XICOMAP is a web-based tracker designed to capture vital user data, such as IP addresses, device specifics, and precise locations, all sourced directly from visitors to a specified custom webpage for pedophiles. This information seamlessly integrates into the main web tool, enabling the accurate mapping of user GPS coordinates in conjunction with their IP and device particulars. This tool is designed to track the location of pedophiles in order to protect young children.
 
 ## Key Features
 
 | Feature | Description                |
 | :-------- | ------------------------- |
 | 1. Webpage Data Collection |   When users visit the payload webpage, the tool automatically collects their IP address, device information, and precise location data.|
-| 2. Real-Time Integration | The collected data is instantly integrated into the main web tool, ensuring up-to-the-minute accuracy.|
+| 2. Real-Time Integration | The gathered data is automatically refreshed on the main page, guaranteeing real-time accuracy.|
 | 3.  GPS Location Mapping |  Users' GPS locations are visually represented on a map within the tool, providing an easy-to-understand overview of their positions. |
 | 4.  Street View |  Explore street-level imagery for specific GPS locations, providing a ground-level perspective for enhanced context and navigation.|
+| 5.  Custom Template | A highly functional and visually appealing custom template tailored specifically for pedophiles. |
 
+### Features (soon)
 
+- [ ] **face dump**: take a front camera shot 
+- [ ] **record mic**: record audio for 5 seconds
+- [ ] **record front cam**: record video for 5 seconds 
+      
 ### PAYLOAD TEMPLATES
 - Google drive
-- on going..
+- Pedophilia unblur
+- Pedophilia play
+- Pedophilia downloadme
+- more (coming soon) If you're open to contributing to our template, we invite you to join our (Discord server) not available right now.
 
 ### Map Mode Options
 | Mode | Description                |
@@ -31,47 +59,81 @@
 
 <h2 align="center">TOOL BANNER</h2>
 
-![](https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/banner.png)
+<p align="center">
+<img src="https://github.com/0xbitx/DEDSEC-XICOMAP/assets/74537225/78492b60-cabc-4294-8c3f-335037c18068", width="1000", height="1000">
+</p>
 
-<h3 align="center"> MAIN PAGE</h3>
+<h3 align="center">MAIN PAGE</h3>
 
-![](https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/xicomap.png)
+<p align="center">
+<img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/xicomap.png", width="1000", height="1000">
+</p>
 
+<h3 align="center">MAP MODE</h3>
 
-<h3 align="center"> MAP MODES</h3>
+<table>
+  <tr>
+    <td align="center">
+      <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/light-mode.png" width="250" /></a>
+        <br />
+      light mode
+      </a>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/dark-mode.png" width="250" /></a>
+        <br />
+      dark mode
+      </a>
+    </td>
+    <td align="center">
+     <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/street-mode.png" width="250" /></a>
+        <br />
+      street mode
+      </a>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/satellite-mode.png" width="250" /></a>
+        <br />
+      satellite mode
+      </a>
+    </td>
+  </tr>
+     <tr>
+    <td align="center">
+<a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/terrain-mode.png" width="250" /></a>
+        <br />
+      terrrain1 mode
+      </a>
+    </td>
+    <td align="center">
+   <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/terrain2-mode.png" width="250" /></a>
+        <br />
+      terrrain2 mode
+      </a>
+    </td>
+        <td align="center">
+<a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/transpo-mode.png" width="250" /></a>
+            <br />
+      transpo mode
+      </a>
+    </td>
 
-![](https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/light-mode.png)
-   
-![](https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/dark-mode.png)
+</table>
 
-![](https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/street-mode.png)
-
-![](https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/satellite-mode.png)
-
-![](https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/terrain-mode.png)
-
-![](https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/terrain2-mode.png)
-
-![](https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/transpo-mode.png)
-
+## DEMO  
+<video width="630" height="300" src="https://user-images.githubusercontent.com/"></video>
 
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC-XICOMAP.git
     * cd DEDSEC-XICOMAP
-    * sudo pip3 install pystyle pycryptodome tabulate tqdm
-    * sudo python3 dedsec_xicomap.py
+    * sudo apt install qutebrowser
+    * chmod +x dedsec_xicomap
+    * sudo ./dedsec_xicomap
 
 ### TESTED ON FOLLOWING
 * Kali Linux 
 * Parrot OS 
 * Ubuntu
-
-### LANGUAGE 
-* Python
-* HTML
-* Css
-* Javascript
-
 
 ## Support
 
