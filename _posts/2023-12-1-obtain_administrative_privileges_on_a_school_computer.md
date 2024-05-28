@@ -30,22 +30,11 @@ PCPWN is an informative tutorial that guides you through the process of gaining 
         Click the Power Button icon.
         Hold the SHIFT Key and click Restart.
 
-<tr>
-<td align="center">
-  <a href="#"><img src="https://www.windowspasswordsrecovery.com/images/topic/fix-windows/repair-your-computer.jpg" width="300" /></a>
-    <br />
-  </a>
-</td>
-<td align="center">
-  <a href="#"><img src="https://i.imgur.com/Hi2fqIr.png" width="300" /></a>
-    <br />
-  </a>
-</td>
-<td align="center">
- <a href="#"><img src="https://i.imgur.com/Hi2fqIr.png" width="300" /></a>
-    <br />
-  </a>
-</td>
+
+<a href="#"><img src="https://www.windowspasswordsrecovery.com/images/topic/fix-windows/repair-your-computer.jpg" width="300"></a>
+<a href="#"><img src="https://i.imgur.com/Hi2fqIr.png" width="300"></a>
+<a href="#"><img src="https://i.imgur.com/Hi2fqIr.png" width="300"></a>
+
 
 Select "Repair Your Computer," then navigate to "Troubleshoot," and finally, select "Command Prompt."
 
@@ -53,23 +42,9 @@ Select "Repair Your Computer," then navigate to "Troubleshoot," and finally, sel
     In the Command Prompt, type notepad to open the Notepad text editor.
     select file | click save as | select this pc | select all files |
 
-<tr>
-<td align="center">
-  <a href="#"><img src="https://i.imgur.com/lUC9sBN.png" width="300" /></a>
-    <br />
-  </a>
-</td>
-<td align="center">
-  <a href="#"><img src="https://i.imgur.com/6QUeUIC.png" width="300" /></a>
-    <br />
-  </a>
-</td>
-<td align="center">
- <a href="#"><img src="https://i.imgur.com/xpSfUCj.png" width="300" /></a>
-    <br />
-  </a>
-</td>
-
+<a href="#"><img src="https://i.imgur.com/lUC9sBN.png" width="300"></a>
+<a href="#"><img src="https://i.imgur.com/6QUeUIC.png" width="300"></a>
+<a href="#"><img src="https://i.imgur.com/xpSfUCj.png" width="300"></a>
 
 #### 3. Changing Utilman to CMD:
     Navigate to drive X (replace X with the appropriate drive).
