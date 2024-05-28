@@ -72,25 +72,21 @@ DEDSEC-XICOMAP is a web-based tracker designed to capture vital user data, such 
       <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/light-mode.png" width="250"></a>
         <br />
       light mode
-      </a>
     </td>
     <td align="center">
       <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/dark-mode.png" width="250"></a>
         <br />
       dark mode
-      </a>
     </td>
     <td align="center">
      <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/street-mode.png" width="250"></a>
         <br />
       street mode
-      </a>
     </td>
     <td align="center">
       <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/satellite-mode.png" width="250"></a>
         <br />
       satellite mode
-      </a>
     </td>
   </tr>
      <tr>
@@ -98,21 +94,17 @@ DEDSEC-XICOMAP is a web-based tracker designed to capture vital user data, such 
 <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/terrain-mode.png" width="250"></a>
         <br />
       terrrain1 mode
-      </a>
     </td>
     <td align="center">
    <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/terrain2-mode.png" width="250"></a>
         <br />
       terrrain2 mode
-      </a>
     </td>
         <td align="center">
 <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/transpo-mode.png" width="250"></a>
             <br />
       transpo mode
-      </a>
     </td>
-
 </table>
 
 ## DEMO  
