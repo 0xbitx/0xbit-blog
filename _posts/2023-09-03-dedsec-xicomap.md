@@ -1,7 +1,5 @@
 
-<p align="center">
 <img src="https://github.com/0xbitx/DEDSEC-XICOMAP/assets/74537225/bc9bc6b3-1139-48f8-9488-d34c56adf6eb", width="400", height="400">
-</p>
 
 <h1 align="center"> DEDSEC-XICOMAP</h1>
 
@@ -48,6 +46,7 @@ DEDSEC-XICOMAP is a web-based tracker designed to capture vital user data, such 
 - more (coming soon) If you're open to contributing to our template, we invite you to join our (Discord server) not available right now.
 
 ### Map Mode Options
+
 | Mode | Description                |
 | :-------- | ------------------------- |
 | 1. Light  |  A clean and easy-to-read display. |
