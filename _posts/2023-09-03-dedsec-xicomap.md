@@ -56,6 +56,7 @@ DEDSEC-XICOMAP is a web-based tracker designed to capture vital user data, such 
 | 5. Terrain | Highlight topographical features for better context. |
 | 6. Transportation  | Focus on transportation infrastructure. |
 
+
 <h2 align="center">TOOL BANNER</h2>
 
 <img src="https://github.com/0xbitx/DEDSEC-XICOMAP/assets/74537225/78492b60-cabc-4294-8c3f-335037c18068", width="1000", height="1000">
@@ -65,6 +66,7 @@ DEDSEC-XICOMAP is a web-based tracker designed to capture vital user data, such 
 <img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/xicomap.png", width="1000", height="1000">
 
 <h3 align="center">MAP MODE</h3>
+
 
 <table>
   <tr>
@@ -106,6 +108,7 @@ DEDSEC-XICOMAP is a web-based tracker designed to capture vital user data, such 
       transpo mode
     </td>
 </table>
+
 
 ## DEMO  
 <video width="630" height="300" src="https://user-images.githubusercontent.com/"></video>
