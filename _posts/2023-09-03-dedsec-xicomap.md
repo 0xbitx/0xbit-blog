@@ -59,40 +59,36 @@ DEDSEC-XICOMAP is a web-based tracker designed to capture vital user data, such 
 
 <h2 align="center">TOOL BANNER</h2>
 
-<p align="center">
 <img src="https://github.com/0xbitx/DEDSEC-XICOMAP/assets/74537225/78492b60-cabc-4294-8c3f-335037c18068", width="1000", height="1000">
-</p>
 
 <h3 align="center">MAIN PAGE</h3>
 
-<p align="center">
 <img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/xicomap.png", width="1000", height="1000">
-</p>
 
 <h3 align="center">MAP MODE</h3>
 
 <table>
   <tr>
     <td align="center">
-      <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/light-mode.png" width="250" /></a>
+      <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/light-mode.png" width="250"></a>
         <br />
       light mode
       </a>
     </td>
     <td align="center">
-      <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/dark-mode.png" width="250" /></a>
+      <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/dark-mode.png" width="250"></a>
         <br />
       dark mode
       </a>
     </td>
     <td align="center">
-     <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/street-mode.png" width="250" /></a>
+     <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/street-mode.png" width="250"></a>
         <br />
       street mode
       </a>
     </td>
     <td align="center">
-      <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/satellite-mode.png" width="250" /></a>
+      <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/satellite-mode.png" width="250"></a>
         <br />
       satellite mode
       </a>
@@ -100,19 +96,19 @@ DEDSEC-XICOMAP is a web-based tracker designed to capture vital user data, such 
   </tr>
      <tr>
     <td align="center">
-<a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/terrain-mode.png" width="250" /></a>
+<a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/terrain-mode.png" width="250"></a>
         <br />
       terrrain1 mode
       </a>
     </td>
     <td align="center">
-   <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/terrain2-mode.png" width="250" /></a>
+   <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/terrain2-mode.png" width="250"></a>
         <br />
       terrrain2 mode
       </a>
     </td>
         <td align="center">
-<a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/transpo-mode.png" width="250" /></a>
+<a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/transpo-mode.png" width="250"></a>
             <br />
       transpo mode
       </a>
