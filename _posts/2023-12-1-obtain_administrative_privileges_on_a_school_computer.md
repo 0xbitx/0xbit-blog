@@ -30,58 +30,46 @@ PCPWN is an informative tutorial that guides you through the process of gaining 
         Click the Power Button icon.
         Hold the SHIFT Key and click Restart.
 
+<tr>
+<td align="center">
+  <a href="#"><img src="https://www.windowspasswordsrecovery.com/images/topic/fix-windows/repair-your-computer.jpg" width="300" /></a>
+    <br />
+  </a>
+</td>
+<td align="center">
+  <a href="#"><img src="https://i.imgur.com/Hi2fqIr.png" width="300" /></a>
+    <br />
+  </a>
+</td>
+<td align="center">
+ <a href="#"><img src="https://i.imgur.com/Hi2fqIr.png" width="300" /></a>
+    <br />
+  </a>
+</td>
 
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="#"><img src="https://www.windowspasswordsrecovery.com/images/topic/fix-windows/repair-your-computer.jpg" width="300" /></a>
-        <br />
-      </a>
-    </td>
-    <td align="center">
-      <a href="#"><img src="https://i.imgur.com/Hi2fqIr.png" width="300" /></a>
-        <br />
-      </a>
-    </td>
-    <td align="center">
-     <a href="#"><img src="https://i.imgur.com/Hi2fqIr.png" width="300" /></a>
-        <br />
-      </a>
-    </td>
-</table>
-
-
-  Select "Repair Your Computer," then navigate to "Troubleshoot," and finally, select "Command Prompt."
-
-
+Select "Repair Your Computer," then navigate to "Troubleshoot," and finally, select "Command Prompt."
 
 
 ### 2. Utilizing Command Prompt:
     In the Command Prompt, type notepad to open the Notepad text editor.
     select file | click save as | select this pc | select all files |
 
-
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="#"><img src="https://i.imgur.com/lUC9sBN.png" width="300" /></a>
-        <br />
-      </a>
-    </td>
-    <td align="center">
-      <a href="#"><img src="https://i.imgur.com/6QUeUIC.png" width="300" /></a>
-        <br />
-      </a>
-    </td>
-    <td align="center">
-     <a href="#"><img src="https://i.imgur.com/xpSfUCj.png" width="300" /></a>
-        <br />
-      </a>
-    </td>
-</table>
-
+<tr>
+<td align="center">
+  <a href="#"><img src="https://i.imgur.com/lUC9sBN.png" width="300" /></a>
+    <br />
+  </a>
+</td>
+<td align="center">
+  <a href="#"><img src="https://i.imgur.com/6QUeUIC.png" width="300" /></a>
+    <br />
+  </a>
+</td>
+<td align="center">
+ <a href="#"><img src="https://i.imgur.com/xpSfUCj.png" width="300" /></a>
+    <br />
+  </a>
+</td>
 
 
 ### 3. Changing Utilman to CMD:
@@ -96,34 +84,23 @@ PCPWN is an informative tutorial that guides you through the process of gaining 
     net localgroup Administrators hacker /add
 
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="#"><img src="https://i.imgur.com/Ebi9VG1.png" width="300" /></a>
-        <br />
-      </a>
-    </td>
-    <td align="center">
-      <a href="#"><img src="https://i.imgur.com/HiFXNMi.png" width="300" /></a>
-        <br />
-      </a>
-    </td>
-</table>
-
-
+<td align="center">
+  <a href="#"><img src="https://i.imgur.com/Ebi9VG1.png" width="300" /></a>
+    <br />
+</td>
+<td align="center">
+  <a href="#"><img src="https://i.imgur.com/HiFXNMi.png" width="300" /></a>
+    <br />
+</td>
 
 ### 5. Logging In with the New Account with admin priv:
     Log in with your non-administrator account.
     Open PowerShell as an administrator.
     Type username: DOMAIN\hacker password: hacker
 
-
-
 Guess what? You've got the keys to the kingdom now! Your regular account? Well, it's not so regular anymore. It's been upgraded to full-on admin mode. That means you're not just a regular user – you're the boss.
 
 With these admin superpowers, you can do a whole bunch of cool stuff. Need to tweak some settings? No problem. Want to add or manage users? Easy peasy. It's like having a backstage pass to the entire system. So go ahead, explore, and make this digital world yours!
-
-
 
 
 ### TESTED ON FOLLOWING
