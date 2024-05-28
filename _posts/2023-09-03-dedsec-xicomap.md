@@ -113,6 +113,7 @@ DEDSEC-XICOMAP is a web-based tracker designed to capture vital user data, such 
 ## DEMO  
 <video width="630" height="300" src="https://user-images.githubusercontent.com/"></video>
 
+
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC-XICOMAP.git
     * cd DEDSEC-XICOMAP
@@ -120,16 +121,19 @@ DEDSEC-XICOMAP is a web-based tracker designed to capture vital user data, such 
     * chmod +x dedsec_xicomap
     * sudo ./dedsec_xicomap
 
+
 ### TESTED ON FOLLOWING
 * Kali Linux 
 * Parrot OS 
 * Ubuntu
+
 
 ## Support
 
 If you find my work helpful and want to support me, consider making a donation. Your contribution will help me continue working on open-source projects.
 
 **Bitcoin Address: `36ALguYpTgFF3RztL4h2uFb3cRMzQALAcm`**
+
 
 <h1 align="center"> DISCLAIMER </h1>
 
