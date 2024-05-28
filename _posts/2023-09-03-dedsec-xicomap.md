@@ -58,60 +58,53 @@ DEDSEC-XICOMAP is a web-based tracker designed to capture vital user data, such 
 
 
 <h2 align="center">TOOL BANNER</h2>
-
-<img src="https://github.com/0xbitx/DEDSEC-XICOMAP/assets/74537225/78492b60-cabc-4294-8c3f-335037c18068", width="1000", height="1000">
+<a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/assets/74537225/78492b60-cabc-4294-8c3f-335037c18068" width="250"></a>
 
 <h3 align="center">MAIN PAGE</h3>
-
-<img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/xicomap.png", width="1000", height="1000">
+<a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/xicomap.png" width="250"></a>
 
 <h3 align="center">MAP MODE</h3>
-
 
 <table>
   <tr>
     <td align="center">
       <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/light-mode.png" width="250"></a>
-        <br />
+        <br/>
       light mode
     </td>
     <td align="center">
       <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/dark-mode.png" width="250"></a>
-        <br />
+        <br/>
       dark mode
     </td>
     <td align="center">
      <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/street-mode.png" width="250"></a>
-        <br />
+        <br/>
       street mode
     </td>
     <td align="center">
       <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/satellite-mode.png" width="250"></a>
-        <br />
+        <br/>
       satellite mode
     </td>
   </tr>
      <tr>
     <td align="center">
 <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/terrain-mode.png" width="250"></a>
-        <br />
+        <br/>
       terrrain1 mode
     </td>
     <td align="center">
    <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/terrain2-mode.png" width="250"></a>
-        <br />
+        <br/>
       terrrain2 mode
     </td>
         <td align="center">
 <a href="#"><img src="https://github.com/0xbitx/DEDSEC-XICOMAP/blob/main/mode/transpo-mode.png" width="250"></a>
-            <br />
+            <br/>
       transpo mode
     </td>
 </table>
-
-
-## DEMO  
-<video width="630" height="300" src="https://user-images.githubusercontent.com/"></video>
 
 
 ## INSTALLATION 
@@ -121,12 +114,10 @@ DEDSEC-XICOMAP is a web-based tracker designed to capture vital user data, such 
     * chmod +x dedsec_xicomap
     * sudo ./dedsec_xicomap
 
-
 ### TESTED ON FOLLOWING
 * Kali Linux 
 * Parrot OS 
 * Ubuntu
-
 
 ## Support
 
