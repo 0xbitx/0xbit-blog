@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hucWpweXFkZTU1emV1ejh4djdkOGNrMDB4ZHFiZmw3a3Uya21wOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4l59hKCbl2YopjffIf/giphy.webp", width="300", height="300">
-</p>
 
 
 <h2 align="center"> DEDSEC-AVSCAN </h2>

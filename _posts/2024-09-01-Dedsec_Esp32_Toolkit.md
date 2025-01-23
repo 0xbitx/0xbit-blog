@@ -1,7 +1,4 @@
 
-<p align="center">
-<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fdomoticx.com%2Fwp-content%2Fuploads%2F2016%2F12%2FESP32-chip-icon.png&f=1&nofb=1&ipt=c7c36d6b62875d8e7ef06266350fe014521e7f165d8846f873c48563e5642734&ipo=images", width="200", height="200">
-</p>
 
 <h1 align="center"> DEDSEC_ESP32_TOOLKIT </h1>
 <h4 align="center"> Boost Your ESP32 Projects with Ease!.</h4>

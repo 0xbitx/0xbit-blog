@@ -1,7 +1,4 @@
 
-<p align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHI5bG13MjNldzltMjFiaWs4emJqa2FtMmN1dHNqNjFvd2NqMXQ0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kliStk02WKPkHxDUCb/giphy.webp", width="300", height="300">
-</p>
 
 <h2 align="center">DEDSEC_PHISHLENS</h2>
 

@@ -1,7 +1,4 @@
 
-<p align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/3296/3296286.png", width="200", height="200">
-</p>
 
 <h1 align="center"> DEDSEC WIFI V2 </h1>
 <p align="center"> DEDSECWIFI has been designed to be a robust and practical attack against Wi-Fi Protected Setup (WPS) registrar PINs in order to recover WPA/WPA2 passphrases. It has been tested against a wide variety of access points and WPS implementations. </p>

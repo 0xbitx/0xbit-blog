@@ -1,8 +1,4 @@
 
-<p align="center">
-<img src="https://i.mt.lv/cdn/rb_images/1041_hi_res.png", width="300", height="300">
-</p>
-
 
 <h2 align="center"> DEDSEC_MikroTik-Bruter
  </h2>

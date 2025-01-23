@@ -1,7 +1,4 @@
 
-<p align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExempiaWZvd3ptcmN6cW5ncmRsNG1teTU2YnI3ejluczdrNjd3bWhxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZsUk0jb6m80uAg0/giphy.webp", width="300", height="300">
-</p>
 
 <h1 align="center"> PROC-HACKER </h1>
 

@@ -1,7 +1,4 @@
 
-<p align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2praGx4dWttandpdXVvZ2I3Nmt6cjE2ZWdmYm1zN2dpYnFrOHJiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dla4YEgg9XByXq8GBW/giphy.webp", width="300", height="300">
-</p>
 
 <h1 align="center"> DEDSEC_PPI </h1>
 

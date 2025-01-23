@@ -1,7 +1,4 @@
 
-<p align="center">
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fiec-telecom.com%2Fwp-content%2Fuploads%2F2023%2F01%2FStarlink_Fixed_1000x600.png&f=1&nofb=1&ipt=3431113fd0fcbb9c9c7ab76ec0c2e4b0efb6d758a650dd31f1fe06b82d55b386&ipo=images", width="500", height="500">
-</p>
 
 <h1 align="center"> DEDSEC_STARSYNC</h1>
 

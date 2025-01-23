@@ -1,7 +1,4 @@
 
-<p align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExendjcjZjN2Z2cXllMHB3ZXBubTBqeHJmcnl4cms4OTI2ampsbTB5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vCFdAw72pa8lYaWyNR/giphy.gif", width="300", height="300">
-</p>
 
 <h1 align="center"> DEDSEC_M2PDF </h1>
 <h4 align="center"> hide payload inside pdf file</h4>

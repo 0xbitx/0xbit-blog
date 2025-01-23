@@ -1,8 +1,4 @@
 
-
-<p align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNoMm4yZ3U4YmFyZXk5bWZ2ZGMycm50MGxuNGVvemQxZzRheGU1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gR0ImElLhnKb3iM/giphy.gif", width="300", height="300">
-</p>
 <h1 align="center"> DEDSEC_DELHOOK</h1>
 <h4 align="center">DEDSEC_DELHOOK is a tool designed for Linux systems that can delete someone Discord webhook.</h4>
 

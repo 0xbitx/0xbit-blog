@@ -1,7 +1,4 @@
 
-<p align="center">
-<img src="http://bluefletch.com/wp-content/uploads/2019/08/tri.png", width="300", height="300">
-</p>
 
 <h2 align="center"> WiFi-TRIANGULATION </h2>
 

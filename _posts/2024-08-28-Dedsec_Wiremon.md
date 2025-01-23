@@ -1,7 +1,4 @@
 
-<p align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/5606/5606489.png", width="200", height="200">
-</p>
 
 <h1 align="center"> WIREMON </h1>
 <h4 align="center"> DEDSEC WIFI ATTACK FRAMEWORK </h4>

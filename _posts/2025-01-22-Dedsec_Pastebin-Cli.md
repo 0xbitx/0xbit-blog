@@ -1,7 +1,4 @@
 
-<p align="center">
-<img src="https://media1.giphy.com/media/AzF3x7tib2oFkpu9XS/200w.webp", width="300", height="300">
-</p>
 
 <h1 align="center"> DEDSEC_PASTEBIN-CLI </h1>
 <h4 align="center"> allows you to manage your pastes directly from the terminal</h4>

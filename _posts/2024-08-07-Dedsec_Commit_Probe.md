@@ -1,8 +1,4 @@
 
-<p align="center">
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2Fcc%2F4f%2Fb9%2Fcc4fb9de3e8c7c24e650d4e00dca5d45--ascii-cat-art.jpg&f=1&nofb=1&ipt=8b740895fd95ad03f7c37589c36598a9f59822f89a319213db8dcb4ee57b0518&ipo=images"300", height="300">
-</p>
-
 <h1 align="center"> DEDSEC_COMMIT_PROBE </h1>
 
 <p align="center">

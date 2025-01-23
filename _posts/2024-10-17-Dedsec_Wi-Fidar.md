@@ -1,7 +1,4 @@
 
-<p align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/5606/5606489.png", width="200", height="200">
-</p>
 
 <h2 align="center"> DEDSEC_WI-FIDAR </h2>
 <h4 align="center"> DEDSEC_WI-FIDAR is a Linux-based Wi-Fi mapping tool designed for network analysis. It scans available Wi-Fi networks in your area and calculates the collected data to estimate the distance of each network.</h4>

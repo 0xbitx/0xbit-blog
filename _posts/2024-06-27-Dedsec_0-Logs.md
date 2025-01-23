@@ -1,7 +1,4 @@
 
-<p align="center">
-<img src="https://img.icons8.com/?size=100&id=BFe0ctVDrLIB&format=png&color=000000", width="200", height="200">
-</p>
 
 <h1 align="center"> 0-LOGS </h1>
 <h4 align="center">DEDSEC_0-LOGS is a Linux-based tool for securely erasing linux logs, ensuring data irrecoverability. Perfect for sensitive data disposal with peace of mind.</h4>

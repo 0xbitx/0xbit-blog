@@ -1,8 +1,4 @@
 
-<p align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG03NXRiNXBidTRoeWlzN3oybWFvbjZrdWRieHQ0djE5ZnM1cTQ1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZtQ1IFm1cmVucxP9d7/giphy.webp", width="300", height="300">
-</p>
-
 <h1 align="center"> GUILD-JACKER </h1>
 
 <p align="center">

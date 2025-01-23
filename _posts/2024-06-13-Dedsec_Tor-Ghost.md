@@ -1,8 +1,4 @@
 
-<p align="center">
-<img src="https://cdn.eteknix.com/wp-content/uploads/2015/05/Silk-Road-Marketplace-Camel-e1432984816910.png", width="200", height="200">
-</p>
-
 <h1 align="center"> DEDSEC_TOR-GHOST
 </h1>
 

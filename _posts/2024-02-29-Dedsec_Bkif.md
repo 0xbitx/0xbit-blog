@@ -1,7 +1,4 @@
 
-<p align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/6716/6716366.png", width="250", height="250">
-</p>
 
 <h1 align="center"> DEDSEC_BKIF</h1>
 <h4 align="center">DEDSEC_BKIF is a keystroke injection tool for Android, Linux, and iOS. With the help of CVE-2023-45866, it grants users unprecedented control over targeted systems, enabling various functions from keystroke injection to advanced system manipulations.</h4>

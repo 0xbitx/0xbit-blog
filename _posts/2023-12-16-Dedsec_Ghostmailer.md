@@ -1,7 +1,4 @@
 
-<p align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/2048/2048558.png", width="350", height="350">
-</p>
 
 <h1 align="center"> DEDSEC_GHOSTMAILER </h1>
 <h4 align="center">DEDSEC_GHOSTMAILER is a Linux-based tool ability to send emails without the need to disclose user's real identity</h4>
